@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "devDependencies": {},
+  "name": "entry",
+  "ohos": {
+    "org": "huawei",
+    "directoryLevel": "project",
+    "buildTool": "hvigor"
+  },
+  "description": "Demonstrate the use of checksum",
+  "repository": {},
+  "version": "2.0.1-rc.0",
+  "dependencies": {
+    "@ohos/checksum": "file:../library"
+  }
+}

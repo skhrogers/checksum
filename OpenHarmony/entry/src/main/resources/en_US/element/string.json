@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "checksum"
+    },
+    {
+      "name": "empty",
+      "value": "null"
+    },
+    {
+      "name": "Display_result",
+      "value": "Show the result:"
+    },
+    {
+      "name": "SHA1_DShaw",
+      "value": "Use SHA-1 to encode the string dshaw"
+    },
+    {
+      "name": "MD5_DShaw",
+      "value": "Use MD5 to encode the string dshaw"
+    },
+    {
+      "name": "Create_File",
+      "value": "Create the Test file"
+    },
+    {
+      "name": "SHA1_Test",
+      "value": "Use SHA-1 to encode the Test file"
+    },
+    {
+      "name": "Md5_Test",
+      "value": "Use MD5 to encode the Test file"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "checksum"
+    },
+    {
+      "name": "empty",
+      "value": "空"
+    },
+    {
+      "name": "Display_result",
+      "value": "显示判断结果:"
+    },
+    {
+      "name": "SHA1_DShaw",
+      "value": "sha1 编码文字 dshaw"
+    },
+    {
+      "name": "MD5_DShaw",
+      "value": "md5 编码文字 dshaw"
+    },
+    {
+      "name": "Create_File",
+      "value": "创建 Test 文件"
+    },
+    {
+      "name": "SHA1_Test",
+      "value": "sha1 编码文件 Test"
+    },
+    {
+      "name": "Md5_Test",
+      "value": "md5 编码文件 Test"
+    }
+  ]
+}

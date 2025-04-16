@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "checksum",
+        "License": "MIT License",
+        "Version Number": "0.1.0",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/dshaw/checksum",
+        "Description": "Checksum utility for node."
+    }
+]

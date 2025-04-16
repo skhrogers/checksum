@@ -1,0 +1,26 @@
+{
+  "types": "",
+  "keywords": [
+    "OpenHarmony",
+    "checksum",
+    "HarmonyOS"
+  ],
+  "author": "hihope",
+  "description": "Checksum 用于计算最典型的散列函数，如 md5 或 sha1",
+  "ohos": {
+    "org": "opensource"
+  },
+  "main": "index.ets",
+  "repository": "https://gitcode.com/openharmony-sig/ohos_checksum",
+  "type": "module",
+  "version": "2.0.1",
+  "tags": [
+    "OpenHarmony",
+    "checksum",
+    "HarmonyOS"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "devDependencies": {},
+  "name": "@ohos/checksum"
+}
